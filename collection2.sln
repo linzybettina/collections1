@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "collection2\hashtable.csproj", "{C72C13A4-86A2-43F7-A102-686042216BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arraylist", "ConsoleApplication1\Arraylist.csproj", "{C0F1EC4F-5C0A-45F8-8839-B48E4A65A411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72C13A4-86A2-43F7-A102-686042216BDC}.Debug|x86.ActiveCfg = Debug|x86
+		{C72C13A4-86A2-43F7-A102-686042216BDC}.Debug|x86.Build.0 = Debug|x86
+		{C72C13A4-86A2-43F7-A102-686042216BDC}.Release|x86.ActiveCfg = Release|x86
+		{C72C13A4-86A2-43F7-A102-686042216BDC}.Release|x86.Build.0 = Release|x86
+		{C0F1EC4F-5C0A-45F8-8839-B48E4A65A411}.Debug|x86.ActiveCfg = Debug|x86
+		{C0F1EC4F-5C0A-45F8-8839-B48E4A65A411}.Debug|x86.Build.0 = Debug|x86
+		{C0F1EC4F-5C0A-45F8-8839-B48E4A65A411}.Release|x86.ActiveCfg = Release|x86
+		{C0F1EC4F-5C0A-45F8-8839-B48E4A65A411}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
